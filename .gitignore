@@ -1,0 +1,5 @@
+# java compiled
+**/*.class
+
+# general notes
+**/*.notes.md
