@@ -3,3 +3,4 @@
 
 - [First day (Java)](./01/Main.java)
 - [Second day (Haskell)](./02/Main.hs)
+- [Third day (C)](./03/main.c)
