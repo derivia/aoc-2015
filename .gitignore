@@ -6,3 +6,8 @@
 
 # general notes
 **/*.notes.md
+
+# haskell compiled
+**/*.o
+**/*.hi
+**/Main
